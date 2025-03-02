@@ -1,6 +1,6 @@
 # Save_user_info_with_Amazon_Lex_chatbot
 This is project 4 of AI and AWS five series projects.
-🚀 Building Smarter Chatbots with hashtag#AWSLex! 💡
+<p>🚀 Building Smarter Chatbots with hashtag#AWSLex! 💡
 As part of my AI x AWS journey, I just wrapped up an exciting project—teaching a chatbot how to remember user info securely! 🎯
 In my first three projects, I explored:
 ✅ Defining intents & responses 💬
@@ -15,4 +15,4 @@ Chatbots can get annoying if they keep asking for the same details (like a birth
 ✅ Configured Lex slots to reuse stored info, ensuring a seamless user experience.
 🛠️ Tech Used: hashtag#AWSLex | hashtag#Lambda | hashtag#NLP | hashtag#AIChatbots
 Now, the bot smartly remembers relevant details only for a short time (5 turns/90 sec) to balance convenience & security! 🔐
-✨ This project reinforced my passion for building intelligent, user-friendly applications. As a hashtag#recentgraduate actively seeking hashtag#SoftwareEngineer roles, I’m eager to bring these skills to real-world products! 🚀
+✨ This project reinforced my passion for building intelligent, user-friendly applications. As a hashtag#recentgraduate actively seeking hashtag#SoftwareEngineer roles, I’m eager to bring these skills to real-world products! 🚀</p>
